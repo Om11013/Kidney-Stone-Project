@@ -2,6 +2,7 @@
 
 How to run the project:
 
+
 Steps:
 
 1.) Open the project folder in Jupyter Notebook
@@ -14,11 +15,12 @@ Steps:
 
 5.) On clicking submit button, the output will be generated.
 
-Here,
+
 
 Dataset:-
 
 "CT_images" - CT Scan images & "urine dataset.csv" - urine analysis
+
 
 
 Codes:-
